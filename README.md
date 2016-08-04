@@ -1,3 +1,6 @@
-# react-sails-practice
-
-a [Sails](http://sailsjs.org) application
+# HelloJS Week4 - React + Sails Practice
+## How to start
+```
+npm install
+npm start
+```
